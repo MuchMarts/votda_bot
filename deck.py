@@ -5,10 +5,10 @@ class Deck:
     ongoing_cards = []
 
     def __init__(self, name: str, deck: dict):
-        self.stored_deck = deck.cards
+        self.stored_deck = deck['cards']
         self.name = name
-        self.size = deck.size
-        self.theme = deck.theme
+        self.size = deck['size']
+        self.theme = deck['theme']
         self.deck = self.create_deck()
         self.shuffle_deck()
 
@@ -16,10 +16,10 @@ class Deck:
         deck = []
         for card_name, card in self.stored_deck.items():
             card_type = "None"
-            if "Ongoing" in card.attributes:
+            if "Ongoing" in card['attributes']:
                 card_type = "Ongoing"
-            for i in range(card.count):
-                c = Card(card_name, card.effect, card_type)
+            for i in range(card['attributes'][2]):
+                c = Card(card_name, card['effect'], card_type)
                 deck.append(c)
         return deck
 
@@ -36,14 +36,16 @@ class Deck:
 
         if drawn_card.type == "Ongoing":
             self.ongoing_cards.append(drawn_card)
+            return drawn_card
+        
 
         self.deck.insert(0, drawn_card)
         return drawn_card
 
     def draw_and_pick(self, choice = -1):
         if choice == -1:
-            dlast = self.deck[len(self.deck)]
-            dSlast = self.deck[len(self.deck)-1]
+            dlast = self.deck[len(self.deck)-1]
+            dSlast = self.deck[len(self.deck)-2]
             return [dlast, dSlast]
 
         if choice == 0:
@@ -59,3 +61,7 @@ class Deck:
             return c
 
         return -1
+    
+    def remove_ongoing_card(self, index: int):
+        card = self.ongoing_cards.pop(index)
+        self.deck.insert(0, card)
