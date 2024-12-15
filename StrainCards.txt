@@ -1,0 +1,68 @@
+Deck Name: Heartless
+Card Count: 52
+
+Theme: "People can be much worse than the monsters."
+
+
+Cards:
+
+    Crossed Heart (Strain, Heartless, Tiers X)
+        Effect: Take 2 Strain, you may no longer take Strain this Round.
+
+    Bottomless Pit (Strain, Heartless, Tiers III)
+        Effect: Draw a Chaos Card.
+
+    Overwhealming (Strain, Heartless, Tiers V, Ongoing)
+        Effect: You gain a point of Exhaustion, you can't get rid of this Exhaustion until you get rid of this Strain Card.
+
+    Unstable Perception (Strain, Heartless, Tiers I, Ongoing)
+        Effect: Your Strain Penalty Increases by 1.
+
+    Cross Roads (Strain, Heartless, Tiers III)
+        Effect: Draw 3 more Strain Cards.
+
+    Bountiful Harvest (Strain, Heartless, Tiers II)
+        Effect: Regain 10 Hit Points.
+
+    Dead Rat (Strain, Heartless, Tiers II, Ongoing)
+        Effect: A Skill of your choice no longer functions.
+
+    Gold Coin (Strain, Heartless, Tiers I)
+        Effect: Flip a Coin to Heads.
+
+    Silver Coin (Strain, Heartless, Tiers III)
+        Effect: Toss two Coins.
+
+    Bronze Coin (Strain, Heartless, Tiers III)
+        Effect: Flip a Coin to Tails.
+
+    Cursed Coin (Strain, Heartless, Tiers I)
+        Effect: Lock a Coin to Tails.
+
+    Hanging Rope (Strain, Heartless, Tiers I)
+        Effect: Toss a Coin and Call a Face, if it doesn't Land on the Called Face you are reduced to 0 Hit Points.
+
+    Abandoned Gallows (Strain, Heartless, Tiers I, Ongoing)
+        Effect: Next time you take Damage, you gain Weakness towards that Damage.
+
+    Broken Glass (Strain, Heartless, Tiers III)
+        Effect: You suffer from Armor Break.
+
+    Shattered Bones (Strain, Heartless, Tiers II, Ongoing)
+        Effect: Your Fortitude and Vigour are reduced by 1.
+
+    The Work (Strain, Heartless, Tiers III)
+        Effect: You take 10 Arts Damage.
+
+    Treasure Chest (Strain, Heartless, Tiers II)
+        Effect: You gain an Additional Action.
+
+    Cleaver (Strain, Heartless, Tiers I)
+        Effect: Your next Attack gains Vorpal and is a Critical Hit.
+
+    Lock and Key (Strain, Heartless, Tiers IV, Ongoing)
+        Effect: Until the end of your next Turn you can't take anymore Strain.
+
+
+    &*?!?#! (Strain, Heartless, Tiers I, Ongoing)
+        Effect: !#*!!&#@*() &!&&*@% !@+* $^^&!> ??!

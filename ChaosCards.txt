@@ -1,0 +1,149 @@
+Deck Name: Eclipse
+Card Count: 52
+
+Theme: "The shadows of the monsters eclipse even the most hopeful of souls."
+
+
+Cards:
+
+
+
+    Fleshy Overgrowth (Chaos, Eclipse, Tiers II)
+        Effect:
+            Tier I: Monster Hit Points increase by 50%
+            Tier II: Monster Hit Points are doubled
+
+
+    Hemotology (Chaos, Eclipse)
+        Effect: Monster Attacks gain Bleeding (1)
+
+
+    Faultlines (Chaos, Eclipse)
+        Effect: Missfire score for Weapons is decreased by a dice size
+
+
+    Power Overwhealming (Chaos, Eclipse, Tiers II)
+        Effect:
+            Tier I: Monster Damage is increased by 50%
+            Tier II: Monster Damage is doubled
+
+
+    Sunfall (Chaos, Eclipse)
+        Effect: The world is enshrouded by Magical Darkness, Monsters gain Dark Sight 60 ft if they alreaday don't have it or another sense that allows them to see in Darkness
+
+
+    Scent of Blood (Chaos, Eclipse)
+        Effect: A Monster of the GM's choice knows the exact location of the Player Characters at all times
+
+
+    Unkillable (Chaos, Eclipse, Tiers III)
+        Effect: Monsters gain the Trait: Defiance. If the Monster fails a Saving Throw or Defend it can succeed instead. Can be used Tiers times, after finishing a Recovery regain all expended uses
+
+
+    Hirearchy (Chaos, Eclipse)
+        Effect: Each Monster has its Rank increased by a Tier to a random similar Rank. Any Monster than doesn't have a Rank gains one
+
+
+    Abyssal Strain (Chaos, Eclipse, Tiers III)
+        Effect: Each time a Coin is Tossed the creature that Tossed it gains a point of Strain
+
+
+    Harvesters (Chaos, Eclipse)
+        Effect: All Monsters gain Lifedrinker (Half) on their Attacks
+
+
+    Harrow (Chaos, Eclipse)
+        Effect: Whenever a Monster enters Combat its Valor is increased by the ammount of Valor each hostile creature has combined, for the duration of the combat
+
+
+    Exhumed Cards (Chaos, Eclipse)
+        Effect: Each Player randomly picks a Chaos Card played. These Chaos Cards are played at the start of the next Session. If no other Chaos Cards were Played, each Player randomly pulls a Chaos Card from the deck
+
+
+    Shadows (Chaos, Eclipse)
+        Effect: Each Monster has a shadawy copy of it emerge that fights along with it, both the Monsters and copy have their Hit Points reduced by half
+
+
+    Twilight (Chaos, Eclipse)
+        Effect: Each Monster has the Trait: Regeneration. At the start of each Phase regain 10 Hit Points, this Trait doesn't function if you start a Phase with 0 Hit Points. Monsters with Regeneration have their Regeneration ammount increased by 5
+
+
+    Crosswired (Chaos, Eclipse)
+        Effect: Each Player switches which Player Character they are playing randomly
+
+
+    Heartless Man (Chaos, Eclipse, Tiers II)
+        Effect:
+            Whenever a creature regains Hit Points it instead Regains half the ammount
+            Creature can no longer regain Hit Points
+
+
+    Rot Flower (Chaos, Eclipse, Tiers II)
+        Effect: Concoctions and Injections have their duration halfed
+
+
+    Brutality Cross (Chaos, Eclipse)
+        Effect: Monsters have a Critical Hit on all Attacks
+
+
+    Dozers (Chaos, Eclipse, Tiers III)
+        Effect: Monster Armor increases by 5
+
+
+    Unity (Chaos, Eclipse)
+        Effect: All allied Monsters within combat have their Hit Points combined
+
+
+    Restless (Chaos, Eclipse)
+        Effect: All creatures are unable to take a Recovery or Rest
+
+
+    Paleknight (Chaos, Eclipse, Tiers II)
+        Effect: All Armor is reduced to 0
+
+
+    Weakened (Chaos, Eclipse)
+        Effect: Creatures may no longer take Strain.
+
+
+    Convergent (Chaos, Eclipse, Tiers II)
+        Effect: All non Monster creatures have a Coin Locked to Tails
+
+
+    Divergent (Chaos, Eclipse, Tiers II)
+        Effect: All creatures have a Coin Locked to Heads
+
+
+    Seams (Chaos, Eclipse, Tiers III)
+        Effect:
+            Tier I: Something doesn't seem quite right
+            Tier II: An unsettling presence nears
+            Tier III: It's here
+
+
+    Penance (Chaos, Eclipse, Tiers II)
+        Effect: When a creature deals Damage it takes half the Damage dealt
+
+
+    The Sick (Chaos, Eclipse, Tiers III)
+        Effect: Creatures can't gain Temporary Hit Points
+
+
+    Stuffed Toy (Chaos, Eclipse)
+        Effect: When a creature takes Damage it Tosses a Coin and Calls a Face. If it lands on the Called Face it takes not Damage.
+
+
+    Twisted Mirror (Chaos, Eclipse)
+        Effect: When a creature Flips a Coin it Draws a Strain Card.
+
+
+    Help from Down Below (Chaos, Eclipse)
+        Effect: Strain Card Effects happen Twice.
+
+
+    Watchful Eye (Chaos, Eclipse)
+        Effect: All creatures engaged in Combat know all Stats of the others.
+
+
+    Dark Gods Rejoice (Chaos, Eclipse)
+        Effect: Chaos Card effects either are Doubled or happen Twice, where applicable.
