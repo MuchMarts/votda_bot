@@ -23,7 +23,10 @@ async def roll(ctx, cmd: str, modifier: int = 0):
         except:
             print(f"Error: {cmd}")
     dice = 0
-
+    if times > 10000:
+        await ctx.send("You can't roll more than 10000 times!")
+        return
+    
     try:
         dice = int(cmd[cmd.index('d')+1:])
     except:
