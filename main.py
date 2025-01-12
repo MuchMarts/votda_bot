@@ -103,7 +103,6 @@ async def pick(ctx, choice: int):
     curr_player.add_strain_card(card)
     await ctx.send(f"{card.name}: {card.effect}")
 
-
 @game.command()
 async def show_deck(ctx):
     global active_deck
