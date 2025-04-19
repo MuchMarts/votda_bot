@@ -1,10 +1,7 @@
 class Player:
-    def __init__(self, name, id, stats: list[int], max_hp: int):
+    def __init__(self, name, id, stats: list[int] = None, max_hp: int = None):
         self.name = name
         self.id = id
-        self.stats = Stats(stats[0], stats[1], stats[2])
-        self.base_max_hp = max_hp
-        self.max_hp = max_hp
 
     strain_cards = []
     strain_taken = 0
@@ -21,6 +18,8 @@ class Player:
     def load_player(self, player_id: int):
         return
     
+    
+
 class Stats:
     def __init__(self, m: int, v: int, f: int):
         self.m = m
