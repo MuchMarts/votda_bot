@@ -1,5 +1,6 @@
 from card import Card
 import random
+
 class Deck:
     deck = []
     ongoing_cards = []

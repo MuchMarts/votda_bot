@@ -52,7 +52,6 @@ active_deck = None
 
 @bot.command()
 async def create_game(ctx):
-
     global active_deck
     active_deck = Deck("Heartless", strain_decks["Heartless"])
     await ctx.send("Game created!")
